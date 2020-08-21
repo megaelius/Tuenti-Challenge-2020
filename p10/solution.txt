@@ -1,0 +1,9 @@
+PetsAreNotAllowedInVillaFeristela
+
+difficult things:
+-$? to get the exit code of the robot
+-flashlight -la to get the ring
+-say 242 | talk robot to say it
+-X was 119 for the zombie
+-ctr+Z to wake up gently the geany
+-When i was in the hole i looked for a ladybug emoji on google and picked it 
